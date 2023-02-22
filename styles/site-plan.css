@@ -1,7 +1,7 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
-@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Exo+2:wght@300&family=Figtree:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Exo+2:ital,wght@1,700&family=Figtree&display=swap');@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Exo+2:wght@300&family=Figtree:wght@300&display=swap');
 
 :root {
   /* change the values below to your colors from your palette */
