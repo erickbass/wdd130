@@ -2,5 +2,6 @@
     "vscode-pets.petSize": "medium",
     "vscode-pets.petType": "dog",
     "vscode-pets.theme": "none",
-    "vscode-pets.throwBallWithMouse": true
+    "vscode-pets.throwBallWithMouse": true,
+    "vscode-pets.position": "explorer"
 }
