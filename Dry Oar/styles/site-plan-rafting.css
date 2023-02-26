@@ -7,10 +7,10 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #EF476F   ;
-  --secondary-color: #FFD166 ;
-  --accent1-color: #06D6A0;
-  --accent2-color: #118AB2;
+  --primary-color: #00B4D8;
+  --secondary-color: #0077B6;
+  --accent1-color: aqua;
+  --accent2-color: 
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Sofia Sans Semi Condensed";
@@ -19,9 +19,9 @@ Fonts are separated by a & */
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #396E94;  /* headlines on a white background */ 
   --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #EF476F; /* paragraph text on a white background */ 
+  --paragraph-color-on-white: #0077B6; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #06d6a0  ;
+  --paragraph-background-color: #396E94  ;
   --nav-link-color: #396E94;
   --nav-background-color: #FFD166;
   --nav-hover-link-color: white;
