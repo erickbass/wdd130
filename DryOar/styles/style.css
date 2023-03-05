@@ -85,6 +85,7 @@ nav a{
     font-family: 'Ubuntu', sans-serif;
     font-size: 2em;
     margin-top: 10px;
+    color : white;
 }
 #hero-msg h2{
     font-family: 'Ubuntu', sans-serif;
@@ -102,6 +103,11 @@ nav a{
 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.river-grid{
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+
 }
 main section{
     text-align: center;
@@ -203,6 +209,21 @@ footer .social img{
 
 .msg-p{
     padding-bottom: 15px;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.item {
+	flex-basis: calc(33.33% - 20px);
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
 }
 
 @media screen and (max-width: 900px) {
